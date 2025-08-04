@@ -13,9 +13,7 @@ CSS Grid
 Media Queries
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 ├── index.html       # Main HTML file
 ├── style.css        # CSS styling file
 🎯 Features
